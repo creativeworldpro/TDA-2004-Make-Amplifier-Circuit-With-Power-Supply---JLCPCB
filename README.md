@@ -36,6 +36,7 @@ Those component list have to been given below.
 
 
 Amplifier Circuit Connection - 
+
 To make this 20 watt amplifier circuit 1st we connect 460 Ω resistor with 4no leg of sound IC.
 Then we connect a copper cable with 6no leg of sound IC. Continuously connect 2.2 Ω resistor with 8no and 10no leg of sound IC. 
 Please remember that, all component other terminal will be empty.
