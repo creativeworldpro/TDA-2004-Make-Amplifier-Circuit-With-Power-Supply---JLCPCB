@@ -14,16 +14,15 @@ Since it is a simple and powerful amplifier circuit, for that to make this ampli
 We also need a DC (12-24) volt power supply circuit. We also teach you making a powerful power supply circuit.
 Those component list have to been given below.
 
-Component List – 
 
-1. Capacitor  - 2200µf/25v
-		             220µf/25v
+1. Capacitor  - 2200µf/25v, 
+		             220µf/25v, 
 		              10µf/25v
-2. Resistor –  2.2 Ω
-		           460 Ω
-		           100 Ω
-		           150 Ω
-		          1.5 KΩ
+2. Resistor –  2.2 Ω, 
+		           460 Ω, 
+		           100 Ω, 
+		           150 Ω, 
+		          1.5 KΩ, 
                 1 KΩ
 3. Diode – 1N 5399 (4 Pieces)
 4. LED – 5mm
@@ -103,6 +102,7 @@ Then connect LED negative leg with positive & negative leg of diode.
 
 
 Connect Transformer with Power Supply - 
+
 For power source we are using 12v transformer. If we want to make 15v power supply, for that we need to connect 15v transformer.
 Now we connect transformer secondary section with the circuit. We connect secondary section cable with diode positive and negative leg.
 We’ll get output voltage from capacitor positive and negative leg.
@@ -110,6 +110,7 @@ Positive voltage from capacitor positive leg and negative voltage from capacitor
 
 
 Soldering and Cleaning - 
+
 Neat and perfect soldering play an important role for all kind of PCBs. Since soldering, you should remember that, there should not be any kind of short circuit connection.
 After soldering all leg, we cut-off the extra leg of all electronics component. For better result you can use liquid PCB cleaner.
 
@@ -118,6 +119,7 @@ Thanks to JLCPCB, for sponsor us such a quality PCB board.
 
 
 Connect Power Supply with Amplifier - 
+
 We got two type voltage from the power supply circuit. 
 We connect positive voltage with 7no, 9no and 11no leg of sound IC and then connect negative voltage with ground leg of this sound IC.
 Our circuit is now completely ready for use. Just plug-in power and audio input system, then play music and enjoy the sound.
